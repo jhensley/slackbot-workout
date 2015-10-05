@@ -1,7 +1,7 @@
 {
-  "teamDomain": "yourDomainHere",
+  "teamDomain": "fyresight",
   "channelName": "general",
-  "channelId": "channelIdHere",
+  "channelId": "#general",
 
   "debug": false,
 
